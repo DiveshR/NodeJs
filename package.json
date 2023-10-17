@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-project",
+  "version": "1.0.0",
+  "description": "This is My first node js project",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Divesh Kumar",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
