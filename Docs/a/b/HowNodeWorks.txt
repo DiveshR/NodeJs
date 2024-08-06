@@ -1,0 +1,3 @@
+Arc of node
+
+Request-> Node(Event Queue->EventLoop(FIFO))
