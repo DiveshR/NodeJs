@@ -24,3 +24,7 @@ npm i  --save-dev nodemon --for current project
 * NAME=DIVESH BACKEND=NODE node env.js
 *package to fetch value from env variables
     npm i dotenv
+
+- Http Api server - http module
+
+- URL(Uniform Resource Locator) & Components
